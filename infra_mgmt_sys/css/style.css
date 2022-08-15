@@ -1,0 +1,31 @@
+.ticket-title {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.answered {
+	font-size:10px;
+	color:#ffffff;
+	background-color:#7079d6;
+	margin:0px 0px 0px 5px;
+}
+
+#main_div{
+	align-items: center;
+    background-size: cover;
+}
+
+#main_div2{
+
+	padding-left: 350px;
+	padding-top: 200px
+}
+
+#main_div2 h2{
+	color: #221249;
+}
+
+#main_div2 .col-md-6{
+	padding-left: 40px;
+}
+
